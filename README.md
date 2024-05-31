@@ -106,6 +106,9 @@ plt.title('K-Means Clustering of Countries by GDP per Capita (2022)')
 ![cluster](images/cluster.png)
 ![c](images/clustercon.png)
 
+
+
+
 - By 2022, which are the top 3 countries considering GDP per Capita?
 
 I used Looker studio.
